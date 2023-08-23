@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<month>
+  <day date="10">
+    <link>
+      <title></title>
+      <url></url>
+      <desc></desc>
+    </link>
+    <link type="also" category="gaming">
+      <title lang="en">Play Pokémon on your computer, in Twitter, in someone's avatar</title>
+      <url>https://www.pcgamer.com/play-pokemon-on-your-computer-in-twitter-in-someones-avatar/</url>
+      <desc>Helix shall return!</desc>
+    </link>
+  </day>
+</month>
