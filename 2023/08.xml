@@ -8,4 +8,13 @@
       <tags>technology, windows</tags>
     </link>
   </day>
+  
+  <day day="23">
+    <link type="also" category="technology">
+      <title lang="en">no hello</title>
+      <url>https://nohello.net/en/</url>
+      <desc>A colleague has been plagued with these recently and just so happens that this is doing the rounds again. Wish there was a non-aggressive way of sending this as a response to people who do it</desc>
+      <tags>technology, work</tags>
+    </link>
+  </day>
 </month>
