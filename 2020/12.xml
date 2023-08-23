@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<month month="12">
+  <day date="30">
+    <link>
+      <title></title>
+      <url></url>
+      <desc></desc>
+    </link>
+    <link type="also" category="gaming">
+      <title lang="en">Computerworld Archives: Back From Vintage Microfilm</title>
+      <url>https://blog.archive.org/2020/12/30/computerworld-archives-back-from-vintage-microfilm//</url>
+      <desc>Archive.org now has nearly fifty years of Computerworld archives. The early ones are a fun read if you want to see some entertainingly large mainframes, or the slow rise of current big players in the tech world... https://archive.org/details/sim_computerworld_1979-10-08_13_41/page/52/mode/2up</desc>
+    </link>
+  </day>
+</month>
