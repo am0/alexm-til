@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<month month="08">
+  <day day="21">
+    <link type="also" category="technology">
+      <title lang="en">TaskbarXI – An application written in C++ to modify the Windows 11 Taskbar</title>
+      <url>https://chrisandriessen.nl/taskbarxi</url>
+      <desc>Don't link to too many Windows-related things, but this is a nice way of making the Windows 11 Taskbar into a minimal dock.</desc>
+      <tags>technology, windows</tags>
+    </link>
+  </day>
+</month>
