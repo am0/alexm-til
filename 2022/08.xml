@@ -8,4 +8,13 @@
       <tags></tags>
     </link>
   </day>
+  
+  <day day="27">
+    <link category="videos">
+      <title lang="en">South Park the 25th Anniversary Concert</title>
+      <url>https://www.youtube.com/watch?v=5x7TUiV8Urk</url>
+      <desc>Whatever your thoughts on South Park, the music from the show has always been fantastic. The co-creators put on a live concert of 25 years' worth and it's a lot of fun.</desc>
+      <tags>video, music, tv</tags>
+    </link>
+  </day>
 </month>
