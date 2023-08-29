@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- filename should be the ISO_8601 MM format, e.g. 01.xml -->
+<!-- Month 01..12 -->
+<month month="01">
+  <!-- Day 01..31 -->
+  <day day="01">
+    <!-- Link group -->
+    <!-- Types: "", "also", "photo", "video" -->
+    <link type="type">
+      <!-- Title of the link -->
+      <title lang="en">This is the title</title>
+      <!-- URL -->
+      <url>https://loremipsum.com</url>
+      <!-- Description -->
+      <desc>This is a description</desc>
+      <!-- Tags -->
+      <tags>tag1, tag2, tag3</tags>
+    </link>
+    <link type="photo">
+      <!-- Photo group -->
+      <photo> 
+        <!-- SRC- place image in year directory / month number (e.g. 2023/01) -->
+        <src>image.jpg</src>
+        <!-- Accessible alt text -->
+        <alt>Alt description</alt>
+        <!-- Copyright info -->
+        <copyright>2023 Person</copyright>
+      </photo>
+      <!-- Then as above -->
+      <title>Title</title>
+      <url>https://...</url>
+      <desc>This is a description</desc>
+      <tags>photo, tag1, tag2, tag3</tags>
+    </link>
+  </day>
+</month>
