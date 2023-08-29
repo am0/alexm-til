@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <month month="08">
   <day day="16">
-    <link category="technology">
+    <link>
       <title lang="en">Janet Jackson had the power to crash laptop computers</title>
       <url>https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994</url>
       <desc>This sounds like a clickbait article, but I promise you not.</desc>
@@ -10,7 +10,11 @@
   </day>
   
   <day day="27">
-    <link category="videos">
+    <link type="video">
+      <video>
+        <src>southpark_maxresdefault.jpg</src>
+        <alt>The poster image for the South Park Anniversary concert, taken from the youtube page. Shows the creators, Matt Stone and Trey Parker on a stage filled with musical instruments.</alt>
+      </video>
       <title lang="en">South Park the 25th Anniversary Concert</title>
       <url>https://www.youtube.com/watch?v=5x7TUiV8Urk</url>
       <desc>Whatever your thoughts on South Park, the music from the show has always been fantastic. The co-creators put on a live concert of 25 years' worth and it's a lot of fun.</desc>
