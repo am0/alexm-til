@@ -10,7 +10,9 @@
       <!-- Title of the link -->
       <title lang="en">This is the title</title>
       <!-- URL -->
-      <url>https://loremipsum.com</url>
+      <url>https://...</url>
+      <!-- Via URL (i.e. person who linked this) -->
+      <via>https://...</via>
       <!-- Description -->
       <desc>This is a description</desc>
       <!-- Tags -->
