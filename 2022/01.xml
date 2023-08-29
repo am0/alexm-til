@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<month month="01">
+  <day day="15">
+    <link type="video">
+      <video>
+        <src>noaverageperson_maxresdefault.jpg</src>
+        <alt>Text-only cover image for the video with the title of the video, the 'inclusive design' logo and some sponsor logos</alt>
+      </video>
+      <title>There is no average person; designing with intersectionality in mind</title>
+      <url>https://www.youtube.com/watch?v=RY9FHkETD5c</url>
+      <desc></desc>
+      <tags>video, ux, a11y</tags>
+    </link>
+  </day>
+</month>
