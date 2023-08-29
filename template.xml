@@ -5,8 +5,8 @@
   <!-- Day 01..31 -->
   <day day="01">
     <!-- Link group -->
-    <!-- Types: "", "also", "photo", "video" -->
-    <link type="type">
+    <!-- Types: "", "highlight" "also", "photo", "video" -->
+    <link type="type type">
       <!-- Title of the link -->
       <title lang="en">This is the title</title>
       <!-- URL -->
@@ -16,7 +16,8 @@
       <!-- Tags -->
       <tags>tag1, tag2, tag3</tags>
     </link>
-    <link type="photo">
+    
+    <link type="photo also">
       <!-- Photo group -->
       <photo> 
         <!-- SRC- place image in year directory / month number (e.g. 2023/01) -->
@@ -26,6 +27,25 @@
         <!-- Copyright info -->
         <copyright>2023 Person</copyright>
       </photo>
+      <!-- Then as above -->
+      <title>Title</title>
+      <url>https://...</url>
+      <desc>This is a description</desc>
+      <tags>photo, tag1, tag2, tag3</tags>
+    </link>
+    
+    <link type="video highlight">
+      <!-- Video group -->
+      <video>
+        <!-- embed- optional, probably use along highlight -->
+        <embed>embed code from yt, vimeo etc</embed>
+        <!-- Poster or placeholder image for the video. Filename as with photo -->
+        <src>image.jpg</src>
+        <!-- Accessible alt text for poster image -->
+        <alt>Alt description</alt>
+        <!-- Copyright info -->
+        <copyright>2023 Person</copyright>
+      </video>
       <!-- Then as above -->
       <title>Title</title>
       <url>https://...</url>
