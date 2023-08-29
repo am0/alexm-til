@@ -17,4 +17,18 @@
       <tags>technology, work</tags>
     </link>
   </day>
+
+  <day day="29">
+    <link type="photo" category="events">
+      <photo> 
+        <src>r0190225.jpg</src>
+        <alt>A crowd of people gathered around a singer with a microphone on a London street. Some are cheering, some are holding their mobile phones.</alt>
+        <copyright>2023 Hollin Jones</copyright>
+      </photo>
+      <title>In Pictures: Notting Hill Carnival 2023</title>
+      <url>https://londonist.com/london/art-and-photography/notting-hill-carnival-photos-2023</url>
+      <desc>Londonist's photo rundown of this year's Notting Hill Carnival. Haven't been in many years but it's a great time! Music and atmosphere is like nothing else.</desc>
+      <tags>london, uk, culture</tags>
+    </link>
+  </day>
 </month>
