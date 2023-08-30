@@ -5,7 +5,7 @@
   <!-- Day 01..31 -->
   <day day="01">
     <!-- Link group -->
-    <!-- Types: "", "highlight" "also", "photo", "video" -->
+    <!-- Types: "", "highlight" "also", "photo", "video", "social" -->
     <link type="type type">
       <!-- Title of the link -->
       <title lang="en">This is the title</title>
@@ -52,7 +52,25 @@
       <title>Title</title>
       <url>https://...</url>
       <desc>This is a description</desc>
-      <tags>photo, tag1, tag2, tag3</tags>
+      <tags>video, tag1, tag2, tag3</tags>
+    </link>
+
+    <!-- Social posts, for tweets etc. -->
+    <link type="social">
+      <!-- URL -->
+      <url>https://...</url>
+      <!-- Text field- appears nice and big -->
+      <text>Lorem ipsum dolem whatever.</text>
+      <!-- User- username of poster. Doesn't automatically add @ -->
+      <user>@aeoye</user>
+      <!-- Site or network posting from. Optional -->
+      <site>Twitter</site>
+      <!-- Photo- as above -->
+      <photo>...</photo>
+      <!-- Comment- is using this a massive subtweet? Probably -->
+      <comment>Wow, this thing is terrible</comment>
+      <!-- Tags -->
+      <tags>tweet, tag1, tag2, tag3</tags>
     </link>
   </day>
 </month>
