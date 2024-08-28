@@ -17,6 +17,30 @@
       <tags>lgbtqia+, transphobia, sports</tags>
     </link>
   </day>
+  <day day="06">
+    <link type="also">
+      <title lang="en">'Google Is a Monopolist,' Judge Rules in Landmark Antitrust Case</title>
+      <url>https://www.nytimes.com/2024/08/05/technology/google-antitrust-ruling.html</url>
+      <desc>This has been clear for a while, but what now? I try, <i>try</i> to use DuckDuckGo when I can but it's just not always as good.</desc>
+      <tags>tech, google, internets</tags>
+    </link>
+  </day>
+  <day day="07">
+    <link>
+      <title lang="en">The Circular Tube Map Is Back - New And Improved</title>
+      <url>https://londonist.com/london/transport/circular-concentric-tube-map</url>
+      <desc>I do love this thing. I don't agree that it's quite as practical as the designer says, I don't think it would work as a travel booklet, but printed nice and big it's really beautiful.</desc>
+      <tags>london, maps, transport</tags>
+    </link>
+  </day>
+  <day day="19">
+    <link type="also">
+      <title lang="en">Found</title>
+      <url>https://www.smbc-comics.com/comic/found</url>
+      <desc>This gave me pause</desc>
+      <tags>comic, life</tags>
+    </link>
+  </day>
   <day day="24">
     <link>
       <title lang="en">Apple Maps on the web launches in beta</title>
