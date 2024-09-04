@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<month month="08">
+  <day day="28">
+    <link>
+      <title lang="en">The secret inside One Million Checkboxes</title>
+      <url>https://eieio.games/essays/the-secret-in-one-million-checkboxes/</url>
+      <desc>Catgirls run tne internet, don't ever forget that. (Also check out the video he's done on this, it's a fun ride)</desc>
+      <tags>internets</tags>
+    </link>
+  </day>
+  <day day="31">
+    <link type="image">
+      <title lang="en">The burning of the Library of Alexandria for fandoms</title>
+      <url>https://taylorlorenz.substack.com/p/the-burning-of-the-library-of-alexandria</url>
+      <image>
+        <src>brazilianstanaccounts.jpg</src>
+        <alt>The 'Wait, It's All Ohio? Always Has Been' meme but with 'Wait, every stan account is brazilian?'</alt>
+      </image>
+      <desc>This is heartbreaking, Brazilians run basically every fan account on the internet</desc>
+      <tags>internets, memes, twitter</tags>
+    </link>
+  </day>
+</month>

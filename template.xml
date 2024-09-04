@@ -5,26 +5,46 @@
   <!-- Day 01..31 -->
   <day day="01">
     <!-- Link group -->
-    <!-- Types: "", "highlight" "also", "photo", "video", "social" -->
-    <link type="type type">
-      <!-- Title of the link -->
+    <!-- Types: "", "image" "photo", "video", "social" -->
+    <!-- Subtypes: "highlight", "also", "image" -->
+
+    <!-- Default -->
+    <link>
+      <!-- Title of the link [Req] -->
       <title lang="en">This is the title</title>
-      <!-- URL -->
+      <!-- URL [Req] -->
       <url>https://...</url>
       <!-- Via URL (i.e. person who linked this) -->
       <via>https://...</via>
-      <!-- Description -->
+      <!-- Description [Req] -->
       <desc>This is a description</desc>
       <!-- Tags -->
+      <tags>tag1, tag2, tag3</tags>
+    </link>
+
+    <!-- Default but with an image -->
+    <link type="image">
+      <title lang="en">This is the title</title>
+      <url>https://...</url>
+      <via>https://...</via>
+      <image>
+        <!-- Just the filename. Place image in year directory / month number (e.g. 2023/01) [Req] -->
+        <src>image.jpg</src>
+        <!-- Accessible alt text [Required, obviously] -->
+        <alt>Alt description</alt>
+        <!-- Copyright info [optional] -->
+        <copyright>2023 Person</copyright>
+      </image>
+      <desc>This is a description</desc>
       <tags>tag1, tag2, tag3</tags>
     </link>
     
     <link type="photo also">
       <!-- Photo group -->
       <photo> 
-        <!-- SRC- place image in year directory / month number (e.g. 2023/01) -->
+        <!-- Just the filename. Place image in year directory / month number (e.g. 2023/01) [Req] -->
         <src>image.jpg</src>
-        <!-- Accessible alt text -->
+        <!-- Accessible alt text [Req] -->
         <alt>Alt description</alt>
         <!-- Copyright info -->
         <copyright>2023 Person</copyright>
