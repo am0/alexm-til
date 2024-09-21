@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <month month="08">
+  <day day="19">
+    <link>
+      <title lang="en">You Can Play The OG Diablo In Your Browser For Free Right Now</title>
+      <url>https://d07riv.github.io/diabloweb/</url>
+      <via>https://kotaku.com/diablo-1-browser-play-for-free-phone-blizzard-pc-1851626289</via>
+      <desc>I can't claim to be able to dig out an old game save from 20 years ago but it is good fun to drop a dat file from my GoG version and see it work in a browser.</desc>
+      <tags>gaming, retro, web</tags>
+    </link>
+    <link type="also">
+      <title lang="en">Apple Podcasts Now Available on the Web</title>
+      <url>https://podcasts.apple.com</url>
+      <via>https://www.macrumors.com/2024/08/19/apple-podcasts-now-available-on-the-web/</via>
+      <desc>Apple is venturing onto the web once again- this is particularly useful as I can now listen to podcasts on my work machines.</desc>
+      <tags>apple, podcasts, web</tags>
+    </link>
+  </day>
+
+  <day day="20">
+    <link type="image">
+      <title lang="en">The name of things you probably didn't know</title>
+      <url>https://www.instagram.com/p/C9GyQlHoN0T/?igsh=MW84NmhrZ3loNTBiMQ%3D%3D</url>
+      <via>https://www.swiss-miss.com/2024/08/the-name-of-things-you-probably-didnt-know.html</via>
+      <image>
+        <src>449753466_1144907283263610_3103874629509600075_n.jpg</src>
+        <alt>A list entitled "THE NAMES OF THINGS YOU PROBABLY DIDN'T KNOW" with items such as "The space between your eyebrows is called a glabella" and "The day after tomorrow is called overmorrow".</alt>
+        <copyright>2024 instagram/@englishingeneral</copyright>
+      </image>
+      <desc>I like these kinds of lists. Along with other people in the comments I knew aglet already from <i>Phineas and Ferb</i> but 'overmorrow' was a new one.</desc>
+      <tags>language, english</tags>
+    </link>
+  </day>
+
   <day day="21">
     <link type="also">
       <title lang="en">TaskbarXI – An application written in C++ to modify the Windows 11 Taskbar</title>
@@ -25,7 +57,7 @@
         <alt>A crowd of people gathered around a singer with a microphone on a London street. Some are cheering, some are holding their mobile phones.</alt>
         <copyright>2023 Hollin Jones</copyright>
       </photo>
-      <title>In Pictures: Notting Hill Carnival 2023</title>
+      <title lang="en">In Pictures: Notting Hill Carnival 2023</title>
       <url>https://londonist.com/london/art-and-photography/notting-hill-carnival-photos-2023</url>
       <desc>Londonist's photo rundown of this year's Notting Hill Carnival. Haven't been in many years but it's a great time! Music and atmosphere is like nothing else.</desc>
       <tags>event, london, uk, culture</tags>
