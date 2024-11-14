@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<month month="10">
+  <day day="15">
+    <link>
+      <title lang="en">Password manager makers want to let you securely transfer passkeys</title>
+      <url>https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/</url>
+      <via>https://www.theverge.com/2024/10/15/24270875/password-manager-makers-transfer-passkeys-fido-alliance</via>
+      <desc>Good news about passkeys- I'm very happy with 1Password right now, but passkeys do feel like they're locked into the app if I ever want to move away from it.</desc>
+      <tags>passwords, security</tags>
+    </link>
+  </day>
+</month>
